@@ -1,0 +1,40 @@
+body{
+    border: 1px solid black;
+    width: 1350px;
+    /* height: 300px; */
+    }
+div{
+    border-radius: 1px solid black;
+    /* background-color: gray; */
+    /* text-align: center; */
+    margin-left: 200px;
+    }
+#h1{
+    font-size: 60px;
+}
+#text1{
+    font-size: 40px; 
+    }
+#button1{
+    font-size: 40px; }
+#button :hover {
+    background-color: green;
+}
+#edit1{
+    font-size: 30px;
+    border-radius: 1px solid black;
+    background-color: blue;
+    margin-left: 20px;
+    color: white;
+}
+#delet1{
+    font-size: 30px;
+    margin-left: 20px;
+    background-color: red;
+}
+li{
+    font-size: 60px;
+}
+ul{
+    /* margin-left: 300px; */
+}
